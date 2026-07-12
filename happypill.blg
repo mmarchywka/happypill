@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2025/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: happypill.aux
+The style file: plainurl.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: happypillNotes.bib
+Database file #2: happypill.bib
+Database file #3: mjm_tr.bib
+Database file #4: releases.bib
+You've used 26 entries,
+            2943 wiz_defined-function locations,
+            896 strings with 22009 characters,
+and the built_in function-call counts, 17177 in all, are:
+= -- 1730
+> -- 1132
+< -- 8
++ -- 436
+- -- 402
+* -- 1346
+:= -- 2638
+add.period$ -- 104
+call.type$ -- 26
+change.case$ -- 279
+chr.to.int$ -- 0
+cite$ -- 26
+duplicate$ -- 365
+empty$ -- 1111
+format.name$ -- 402
+if$ -- 4059
+int.to.chr$ -- 0
+int.to.str$ -- 26
+missing$ -- 25
+newline$ -- 159
+num.names$ -- 52
+pop$ -- 371
+preamble$ -- 1
+purify$ -- 253
+quote$ -- 0
+skip$ -- 978
+stack$ -- 0
+substring$ -- 476
+swap$ -- 149
+text.length$ -- 66
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 104
+warning$ -- 0
+while$ -- 70
+width$ -- 28
+write$ -- 355
