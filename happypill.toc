@@ -4,17 +4,20 @@
 \contentsline {section}{\numberline {}Contents}{1}{section*.3}%
 \tocdepth@restore 
 \contentsline {section}{\numberline {I}Introduction }{3}{section*.4}%
-\contentsline {section}{\numberline {II}Event Description }{3}{section*.5}%
-\contentsline {section}{\numberline {III} Discussion }{4}{section*.6}%
-\contentsline {section}{\numberline {IV}Conclusions}{5}{section*.7}%
-\contentsline {section}{\numberline {V}Supplemental Information}{5}{section*.8}%
-\contentsline {subsection}{\numberline {V.1}Computer Code}{5}{section*.9}%
-\contentsline {section}{\numberline {VI}Bibliography}{6}{section*.10}%
-\contentsline {section}{\numberline {}References}{6}{section*.11}%
-\contentsline {section}{\numberline {}Acknowledgments}{7}{section*.12}%
+\contentsline {subsection}{\numberline {I.1}Heartworm}{3}{section*.5}%
+\contentsline {subsection}{\numberline {I.2}Right Ventricle Pulmonary Artery Death Spiral}{3}{section*.6}%
+\contentsline {subsection}{\numberline {I.3}Sildenafil }{3}{section*.7}%
+\contentsline {section}{\numberline {II}Event Description }{4}{section*.8}%
+\contentsline {section}{\numberline {III} Discussion }{4}{section*.9}%
+\contentsline {section}{\numberline {IV}Conclusions}{6}{section*.10}%
+\contentsline {section}{\numberline {V}Supplemental Information}{6}{section*.11}%
+\contentsline {subsection}{\numberline {V.1}Computer Code}{6}{section*.12}%
+\contentsline {section}{\numberline {VI}Bibliography}{6}{section*.13}%
+\contentsline {section}{\numberline {}References}{6}{section*.14}%
+\contentsline {section}{\numberline {}Acknowledgments}{8}{section*.15}%
 \appendix 
-\contentsline {section}{\numberline {A} Statement of Conflicts }{8}{section*.13}%
-\contentsline {section}{\numberline {B}About the Authors and Facility}{8}{section*.14}%
-\contentsline {section}{\numberline {C}Symbols, Abbreviations and Colloquialisms}{8}{section*.15}%
-\contentsline {section}{\numberline {D}General caveats and disclaimer }{8}{section*.16}%
-\contentsline {section}{\numberline {E}Citing this as a tech report or white paper }{8}{section*.17}%
+\contentsline {section}{\numberline {A} Statement of Conflicts }{9}{section*.16}%
+\contentsline {section}{\numberline {B}About the Authors and Facility}{9}{section*.17}%
+\contentsline {section}{\numberline {C}Symbols, Abbreviations and Colloquialisms}{9}{section*.18}%
+\contentsline {section}{\numberline {D}General caveats and disclaimer }{9}{section*.19}%
+\contentsline {section}{\numberline {E}Citing this as a tech report or white paper }{9}{section*.20}%

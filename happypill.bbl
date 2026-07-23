@@ -1,5 +1,31 @@
 \begin{thebibliography}{10}
 
+\bibitem{agraham_Sildenafil_Exposure_2026}
+agraham.
+\newblock Sildenafil exposure in a dog.
+\newblock 07 2026.
+\newblock URL:
+  \url{https://todaysveterinarynurse.com/emergency-medicine-critical-care/sildenafil-exposure-in-a-dog/}.
+
+\bibitem{PMID29352474}
+R~Akabane, T~Sato, A~Sakatani, Y~Miyagawa, H~Tazaki, and N~Takemura.
+\newblock Pharmacokinetics of single-dose sildenafil administered orally in
+  clinically healthy dogs: Effect of feeding and dose proportionality.
+\newblock {\em Journal of veterinary pharmacology and therapeutics}, pages
+  457--462, 01 2018.
+\newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/29352474/}, \href
+  {https://doi.org/10.1111/jvp.12487} {\path{doi:10.1111/jvp.12487}}.
+
+\bibitem{Akabane_Sato_Sakatani_Pharmacokinetics_single_dose_2020}
+Ryota Akabane, Touko Sato, Atsushi Sakatani, Mizuki Ogawa, Masayoshi Nagakawa,
+  Hirosumi Miyakawa, Yuichi Miyagawa, Hiroyuki Tazaki, and Naoyuki Takemura.
+\newblock Pharmacokinetics of single dose sildenafil orally administered in
+  canine models of chronic embolic pulmonary hypertension.
+\newblock {\em The Journal of veterinary medical science}, pages 446--451, 02
+  2020.
+\newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC7192714/}, \href
+  {https://doi.org/10.1292/jvms.19-0595} {\path{doi:10.1292/jvms.19-0595}}.
+
 \bibitem{BASS2020101059}
 Joseph~J. Bass, Asif Nakhuda, Colleen~S. Deane, Matthew~S. Brook, Daniel~J.
   Wilkinson, Bethan~E. Phillips, Andrew Philp, Janelle Tarum, Fawzi Kadi, Ditte
@@ -75,6 +101,14 @@ Courtney~E. Gorman, Fintan Egan, Francisco~Javier Alarc\'{o}n-L\'{o}pez, Jette
 \newblock URL: \url{https://www.nature.com/articles/s41598-025-22850-1}, \href
   {https://doi.org/10.1038/s41598-025-22850-1}
   {\path{doi:10.1038/s41598-025-22850-1}}.
+
+\bibitem{Johnson_Stern_Clinical_features_outcome_2020}
+Lynelle~R. Johnson and Joshua~A. Stern.
+\newblock Clinical features and outcome in 25 dogs with respiratory-associated
+  pulmonary hypertension treated with sildenafil.
+\newblock {\em Journal of Veterinary Internal Medicine}, 34, 01 2020.
+\newblock \href {https://doi.org/10.1111/jvim.15679}
+  {\path{doi:10.1111/jvim.15679}}.
 
 \bibitem{Kao_Wedes_Hsu_Arginine_metabolic_endotypes_2015}
 Christina~C Kao, Samuel~H Wedes, Jean~W Hsu, Kurt~M Bohren, Suzy~A Comhair,
@@ -211,6 +245,15 @@ Michela~C. Rebsamen, Jianxin Sun, Anthony~W. Norman, and James~K. Liao.
 \newblock \href {https://doi.org/10.1161/01.res.0000025269.60668.0f}
   {\path{doi:10.1161/01.res.0000025269.60668.0f}}.
 
+\bibitem{Saetang_Surachetpong_Short_term_effects_2020}
+Karun Saetang and Sirilak~Disatian Surachetpong.
+\newblock Short-term effects of sildenafil in the treatment of dogs with
+  pulmonary hypertension secondary to degenerative mitral valve disease.
+\newblock {\em Veterinary world}, pages 2260--2268, 10 2020.
+\newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC7704324/}, \href
+  {https://doi.org/10.14202/vetworld.2020.2260-2268}
+  {\path{doi:10.14202/vetworld.2020.2260-2268}}.
+
 \bibitem{Sebkhi_Strange_Phillips_Phosphodiesterase_Type_2003}
 A.~Sebkhi, Julian~W. Strange, Steven~C. Phillips, John Wharton, and Martin~R.
   Wilkins.
@@ -234,6 +277,16 @@ Catherine~E Simpson, Anjira~S Ambade, Robert Harlan, Aurelie Roux, Susan Aja,
 \newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/37786941/}, \href
   {https://doi.org/10.1152/ajplung.00177.2023}
   {\path{doi:10.1152/ajplung.00177.2023}}.
+
+\bibitem{TJOSTHEIM201996}
+S.S. Tjostheim, H.B. Kellihan, K.A. Grint, and R.L. Stepien.
+\newblock Effect of sildenafil and pimobendan on intracardiac heartworm
+  infections in four dogs.
+\newblock {\em Journal of Veterinary Cardiology}, 23:96--103, 2019.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S1760273418301383},
+  \href {https://doi.org/10.1016/j.jvc.2019.02.001}
+  {\path{doi:10.1016/j.jvc.2019.02.001}}.
 
 \bibitem{Tjostheim_Kellihan_Grint_Effect_sildenafil_2019}
 S.S. Tjostheim, H.B. Kellihan, K.A. Grint, and R.L. Stepien.
@@ -266,5 +319,14 @@ Jessica~L Ward, Efrem~Z Kussin, Melissa~A Tropf, Sandra~P Tou, Teresa~C
   2020.
 \newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC7694854/}, \href
   {https://doi.org/10.1111/jvim.15920} {\path{doi:10.1111/jvim.15920}}.
+
+\bibitem{Yata_DeFrancesco_Bonagura_Population_Pharmacokinetics_Sildenafil_2026}
+Mariko Yata, Teresa~C. DeFrancesco, John~D. Bonagura, and Mark~G. Papich.
+\newblock Population pharmacokinetics of sildenafil in dogs with naturally
+  occurring pulmonary hypertension.
+\newblock {\em Journal of Veterinary Pharmacology and Therapeutics}, 49, 05
+  2026.
+\newblock \href {https://doi.org/10.1111/jvp.70057}
+  {\path{doi:10.1111/jvp.70057}}.
 
 \end{thebibliography}
