@@ -102,6 +102,24 @@ Courtney~E. Gorman, Fintan Egan, Francisco~Javier Alarc\'{o}n-L\'{o}pez, Jette
   {https://doi.org/10.1038/s41598-025-22850-1}
   {\path{doi:10.1038/s41598-025-22850-1}}.
 
+\bibitem{Hansen_Airway_spasm_collapse_2019}
+Paul~D. Hansen.
+\newblock Airway spasm or collapse? an alternate mechanism of action for an
+  important side effect of sildenafil warrants consideration in patients with
+  tracheobronchomalacia.
+\newblock {\em The Journal of Pediatrics}, 213, 10 2019.
+\newblock \href {https://doi.org/10.1016/j.jpeds.2019.06.019}
+  {\path{doi:10.1016/j.jpeds.2019.06.019}}.
+
+\bibitem{Ishikura_Beppu_Hamada_Effects_Sildenafil_Citrate_2000}
+Fuminobu Ishikura, Shintaro Beppu, Toshiaki Hamada, Bijoy~K. Khandheria,
+  James~B. Seward, and Ajay Nehra.
+\newblock Effects of sildenafil citrate (viagra) combined with nitrate on the
+  heart.
+\newblock {\em Circulation}, 102, 11 2000.
+\newblock \href {https://doi.org/10.1161/01.cir.102.20.2516}
+  {\path{doi:10.1161/01.cir.102.20.2516}}.
+
 \bibitem{Johnson_Stern_Clinical_features_outcome_2020}
 Lynelle~R. Johnson and Joshua~A. Stern.
 \newblock Clinical features and outcome in 25 dogs with respiratory-associated
@@ -109,6 +127,24 @@ Lynelle~R. Johnson and Joshua~A. Stern.
 \newblock {\em Journal of Veterinary Internal Medicine}, 34, 01 2020.
 \newblock \href {https://doi.org/10.1111/jvim.15679}
   {\path{doi:10.1111/jvim.15679}}.
+
+\bibitem{Jung_Johnstone_Khoja_Sildenafil_Improves_Functional_2016}
+Suna Jung, Aaron Johnstone, Zehra Khoja, Emmanouil Rampakakis, Pierre
+  Lachapelle, and Pia Wintermark.
+\newblock Sildenafil improves functional and structural outcome of retinal
+  injury following term neonatal hypoxia-ischemia.
+\newblock {\em Investigative Opthalmology \&amp; Visual Science}, 57, 08 2016.
+\newblock \href {https://doi.org/10.1167/iovs.16-19385}
+  {\path{doi:10.1167/iovs.16-19385}}.
+
+\bibitem{KEPierce_Bartoe_Hauptman_Sildenafil_Reduces_Retinal_Sensitivity_2009}
+Jr. K.~E.~Pierce, J.~T. Bartoe, J.~Hauptman, C.~Zelinka, A.~J. Fischer, and
+  S.~M. Petersen-Jones.
+\newblock Sildenafil reduces retinal sensitivity and vision in dogs
+  heterozygous for a pde6a mutation.
+\newblock {\em Investigative Ophthalmology \& Visual Science}, 50, 04 2009.
+\newblock URL:
+  \url{https://iovs.arvojournals.org/article.aspx?articleid=2362984}.
 
 \bibitem{Kao_Wedes_Hsu_Arginine_metabolic_endotypes_2015}
 Christina~C Kao, Samuel~H Wedes, Jean~W Hsu, Kurt~M Bohren, Suzy~A Comhair,
@@ -263,6 +299,15 @@ A.~Sebkhi, Julian~W. Strange, Steven~C. Phillips, John Wharton, and Martin~R.
 \newblock \href {https://doi.org/10.1161/01.cir.0000074226.20466.b1}
   {\path{doi:10.1161/01.cir.0000074226.20466.b1}}.
 
+\bibitem{SerranoParreno_Carreton_CaroVadillo_Pulmonary_hypertension_dogs_2017}
+B.~Serrano-Parre\~{n}o, E.~Carret\'{o}n, A.~Caro-Vadillo,
+  S.~Falc\'{o}n-Cord\'{o}n, Y.~Falc\'{o}n-Cord\'{o}n, and J.A. Montoya-Alonso.
+\newblock Pulmonary hypertension in dogs with heartworm before and after the
+  adulticide protocol recommended by the american heartworm society.
+\newblock {\em Veterinary Parasitology}, 236, 03 2017.
+\newblock \href {https://doi.org/10.1016/j.vetpar.2017.02.001}
+  {\path{doi:10.1016/j.vetpar.2017.02.001}}.
+
 \bibitem{PMC11068393}
 Catherine~E Simpson, Anjira~S Ambade, Robert Harlan, Aurelie Roux, Susan Aja,
   David Graham, Ami~A Shah, Laura~K Hummers, Anna~R Hemnes, Jane~A Leopold,
@@ -277,6 +322,18 @@ Catherine~E Simpson, Anjira~S Ambade, Robert Harlan, Aurelie Roux, Susan Aja,
 \newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/37786941/}, \href
   {https://doi.org/10.1152/ajplung.00177.2023}
   {\path{doi:10.1152/ajplung.00177.2023}}.
+
+\bibitem{PMID21537608}
+C~T Sousa, T~S Brito, F~B Lima, R~B Siqueira, P~C Magalhaes, A~M Lima, A~A
+  Santos, and A~Havt.
+\newblock Sildenafil decreases rat tracheal hyperresponsiveness to carbachol
+  and changes canonical transient receptor potential gene expression after
+  antigen challenge.
+\newblock {\em Brazilian journal of medical and biological research = Revista
+  brasileira de pesquisas medicas e biologicas}, pages 562--72, 05 2011.
+\newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/21537608/}, \href
+  {https://doi.org/10.1590/s0100-879x2011007500056}
+  {\path{doi:10.1590/s0100-879x2011007500056}}.
 
 \bibitem{TJOSTHEIM201996}
 S.S. Tjostheim, H.B. Kellihan, K.A. Grint, and R.L. Stepien.
@@ -296,6 +353,15 @@ S.S. Tjostheim, H.B. Kellihan, K.A. Grint, and R.L. Stepien.
 \newblock \href {https://doi.org/10.1016/j.jvc.2019.02.001}
   {\path{doi:10.1016/j.jvc.2019.02.001}}.
 
+\bibitem{TopyaPutowska_Tomaszewski_Wysokiski_Echocardiography_Pulmonary_Arterial_2021}
+Weronika Topya-Putowska, Micha Tomaszewski, Andrzej Wysokiski, and Andrzej
+  Tomaszewski.
+\newblock Echocardiography in pulmonary arterial hypertension: Comprehensive
+  evaluation and technical considerations.
+\newblock {\em Journal of clinical medicine}, 07 2021.
+\newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC8348437/}, \href
+  {https://doi.org/10.3390/jcm10153229} {\path{doi:10.3390/jcm10153229}}.
+
 \bibitem{Verbeken_Sipido_Herijgers_Ventricular_Phosphodiesterase_Expression_2009}
 Erik Verbeken, Karin Sipido, Paul Herijgers, Kenneth~D. Bloch, Stefan~P.
   Janssens, Peter Pokreisz, Sara Vandenwijngaert, Virginie Bito, An~Van den
@@ -309,6 +375,27 @@ Erik Verbeken, Karin Sipido, Paul Herijgers, Kenneth~D. Bloch, Stefan~P.
 \newblock {\em Circulation}, 119, 01 2009.
 \newblock \href {https://doi.org/10.1161/circulationaha.108.822072}
   {\path{doi:10.1161/circulationaha.108.822072}}.
+
+\bibitem{PMID18818482}
+Cong Wang, Jun Wang, Lan Zhao, Yuexiu Wang, Jie Liu, Luping Shi, Meng Xu, and
+  Chen Wang.
+\newblock Sildenafil inhibits human pulmonary artery smooth muscle cell
+  proliferation by decreasing capacitative ca2+ entry.
+\newblock {\em Journal of pharmacological sciences}, pages 71--8, Sep 2008.
+\newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/18818482/}, \href
+  {https://doi.org/10.1254/jphs.08069fp} {\path{doi:10.1254/jphs.08069fp}}.
+
+\bibitem{Wang_Yang_Xu_Sildenafil_inhibits_hypoxia_induced_2013}
+Jian Wang, Kai Yang, Lei Xu, Yi~Zhang, Ning Lai, Hua Jiang, Yajie Zhang,
+  Nanshan Zhong, Pixin Ran, and Wenju Lu.
+\newblock Sildenafil inhibits hypoxia-induced transient receptor potential
+  canonical protein expression in pulmonary arterial smooth muscle via
+  cgmp-pkg-ppargamma axis.
+\newblock {\em American journal of respiratory cell and molecular biology},
+  pages 231--40, Aug 2013.
+\newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/23526219/}, \href
+  {https://doi.org/10.1165/rcmb.2012-0185OC}
+  {\path{doi:10.1165/rcmb.2012-0185OC}}.
 
 \bibitem{Ward_Kussin_Tropf_Retrospective_evaluation_2020}
 Jessica~L Ward, Efrem~Z Kussin, Melissa~A Tropf, Sandra~P Tou, Teresa~C
