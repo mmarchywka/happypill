@@ -12,45 +12,45 @@ Database file #2: happypill.bib
 Database file #3: mjm_tr.bib
 Database file #4: releases.bib
 Warning--empty journal in agraham_Sildenafil_Exposure_2026
-You've used 42 entries,
+You've used 43 entries,
             2943 wiz_defined-function locations,
-            1029 strings with 31931 characters,
-and the built_in function-call counts, 26496 in all, are:
-= -- 2711
-> -- 1625
-< -- 14
-+ -- 620
-- -- 568
-* -- 1991
-:= -- 3992
-add.period$ -- 168
-call.type$ -- 42
-change.case$ -- 410
+            1038 strings with 32704 characters,
+and the built_in function-call counts, 27220 in all, are:
+= -- 2791
+> -- 1660
+< -- 15
++ -- 633
+- -- 580
+* -- 2036
+:= -- 4087
+add.period$ -- 172
+call.type$ -- 43
+change.case$ -- 419
 chr.to.int$ -- 0
-cite$ -- 43
-duplicate$ -- 606
-empty$ -- 1803
-format.name$ -- 568
-if$ -- 6378
+cite$ -- 44
+duplicate$ -- 634
+empty$ -- 1853
+format.name$ -- 580
+if$ -- 6564
 int.to.chr$ -- 0
-int.to.str$ -- 42
-missing$ -- 41
-newline$ -- 255
-num.names$ -- 84
-pop$ -- 570
+int.to.str$ -- 43
+missing$ -- 42
+newline$ -- 261
+num.names$ -- 86
+pop$ -- 586
 preamble$ -- 1
-purify$ -- 368
+purify$ -- 376
 quote$ -- 0
-skip$ -- 1589
+skip$ -- 1643
 stack$ -- 0
-substring$ -- 763
-swap$ -- 246
-text.length$ -- 102
+substring$ -- 784
+swap$ -- 264
+text.length$ -- 105
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 168
+type$ -- 172
 warning$ -- 1
-while$ -- 115
-width$ -- 44
-write$ -- 568
+while$ -- 118
+width$ -- 45
+write$ -- 582
 (There was 1 warning)
