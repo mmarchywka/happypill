@@ -26,6 +26,13 @@ Ryota Akabane, Touko Sato, Atsushi Sakatani, Mizuki Ogawa, Masayoshi Nagakawa,
 \newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC7192714/}, \href
   {https://doi.org/10.1292/jvms.19-0595} {\path{doi:10.1292/jvms.19-0595}}.
 
+\bibitem{Andersen_Tufik_Effects_Sildenafil_2018}
+Monica~L Andersen and Sergio Tufik.
+\newblock The effects of sildenafil on the respiratory system of patients with
+  obstructive sleep apnea and erectile dysfunction., 05 2018.
+\newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC5940445/}, \href
+  {https://doi.org/10.5664/jcsm.7138} {\path{doi:10.5664/jcsm.7138}}.
+
 \bibitem{PMC13529528}
 Irene Apolloni, Stefano Oricco, Serena Crosara, Giorgia Cavalleri, Marco Poggi,
   and Cecilia Quintavalla.
@@ -183,6 +190,15 @@ Ekaterina Legchenko, Philippe Chouvarine, Fatimunnisa Qadri, Edgar Specker,
 \newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/39170954/}, \href
   {https://doi.org/10.1016/j.jacbts.2024.04.006}
   {\path{doi:10.1016/j.jacbts.2024.04.006}}.
+
+\bibitem{Lyle_Davis_Brozovich_Regulation_Pulmonary_Vascular_2017}
+Melissa~A Lyle, Jonathan~P Davis, and Frank~V Brozovich.
+\newblock Regulation of pulmonary vascular smooth muscle contractility in
+  pulmonary arterial hypertension: Implications for therapy.
+\newblock {\em Frontiers in physiology}, page 614, 08 2017.
+\newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC5572347/}, \href
+  {https://doi.org/10.3389/fphys.2017.00614}
+  {\path{doi:10.3389/fphys.2017.00614}}.
 
 \bibitem{marchywka-MJM-2024-010-0.01rg}
 Mike~J Marchywka.

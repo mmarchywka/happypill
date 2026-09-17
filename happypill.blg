@@ -9,48 +9,50 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: happypillNotes.bib
 Database file #2: happypill.bib
+Warning--entry type for "Andersen_Tufik_Effects_Sildenafil_2018" isn't style-file defined
+--line 2203 of file happypill.bib
 Database file #3: mjm_tr.bib
 Database file #4: releases.bib
 Warning--empty journal in agraham_Sildenafil_Exposure_2026
-You've used 43 entries,
+You've used 45 entries,
             2943 wiz_defined-function locations,
-            1038 strings with 32704 characters,
-and the built_in function-call counts, 27220 in all, are:
-= -- 2791
-> -- 1660
-< -- 15
-+ -- 633
-- -- 580
-* -- 2036
-:= -- 4087
-add.period$ -- 172
-call.type$ -- 43
-change.case$ -- 419
+            1056 strings with 33943 characters,
+and the built_in function-call counts, 28178 in all, are:
+= -- 2896
+> -- 1694
+< -- 16
++ -- 646
+- -- 590
+* -- 2092
+:= -- 4212
+add.period$ -- 179
+call.type$ -- 45
+change.case$ -- 430
 chr.to.int$ -- 0
-cite$ -- 44
-duplicate$ -- 634
-empty$ -- 1853
-format.name$ -- 580
-if$ -- 6564
+cite$ -- 46
+duplicate$ -- 663
+empty$ -- 1942
+format.name$ -- 590
+if$ -- 6821
 int.to.chr$ -- 0
-int.to.str$ -- 43
-missing$ -- 42
-newline$ -- 261
-num.names$ -- 86
-pop$ -- 586
+int.to.str$ -- 45
+missing$ -- 43
+newline$ -- 272
+num.names$ -- 90
+pop$ -- 615
 preamble$ -- 1
-purify$ -- 376
+purify$ -- 385
 quote$ -- 0
-skip$ -- 1643
+skip$ -- 1715
 stack$ -- 0
-substring$ -- 784
-swap$ -- 264
-text.length$ -- 105
+substring$ -- 805
+swap$ -- 277
+text.length$ -- 110
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 172
+type$ -- 180
 warning$ -- 1
-while$ -- 118
-width$ -- 45
-write$ -- 582
-(There was 1 warning)
+while$ -- 123
+width$ -- 47
+write$ -- 607
+(There were 2 warnings)
