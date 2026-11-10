@@ -326,6 +326,12 @@ INPUT /home/marchywka/.texlive2025/texmf-var/luatex-cache/generic/fonts/otl/lmro
 INPUT ./happypill.toc
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 OUTPUT happypill.toc
+INPUT ./keep/happy2020_12_16.jpg
+INPUT ./keep/happy2020_12_16.jpg
+INPUT ./keep/happy2026_11_9.jpg
+INPUT ./keep/happy2026_11_9.jpg
+INPUT ./keep/happyclaireweght.pdf
+INPUT ./keep/happyclaireweght.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
