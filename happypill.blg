@@ -14,45 +14,46 @@ Warning--entry type for "Andersen_Tufik_Effects_Sildenafil_2018" isn't style-fil
 Database file #3: mjm_tr.bib
 Database file #4: releases.bib
 Warning--empty journal in agraham_Sildenafil_Exposure_2026
-You've used 56 entries,
+Warning--empty year in McCauley_Clark_Quest_Review_canine_dilated_
+You've used 60 entries,
             2943 wiz_defined-function locations,
-            1139 strings with 38341 characters,
-and the built_in function-call counts, 34043 in all, are:
-= -- 3499
-> -- 2045
+            1171 strings with 40156 characters,
+and the built_in function-call counts, 36480 in all, are:
+= -- 3736
+> -- 2225
 < -- 19
-+ -- 783
-- -- 712
-* -- 2504
-:= -- 5119
-add.period$ -- 224
-call.type$ -- 56
-change.case$ -- 523
++ -- 853
+- -- 776
+* -- 2699
+:= -- 5506
+add.period$ -- 240
+call.type$ -- 60
+change.case$ -- 567
 chr.to.int$ -- 0
-cite$ -- 57
-duplicate$ -- 790
-empty$ -- 2372
-format.name$ -- 712
-if$ -- 8245
+cite$ -- 62
+duplicate$ -- 833
+empty$ -- 2520
+format.name$ -- 776
+if$ -- 8807
 int.to.chr$ -- 0
-int.to.str$ -- 56
-missing$ -- 52
-newline$ -- 339
-num.names$ -- 112
-pop$ -- 752
+int.to.str$ -- 60
+missing$ -- 56
+newline$ -- 363
+num.names$ -- 120
+pop$ -- 808
 preamble$ -- 1
-purify$ -- 468
+purify$ -- 508
 quote$ -- 0
-skip$ -- 2072
+skip$ -- 2205
 stack$ -- 0
-substring$ -- 914
-swap$ -- 302
-text.length$ -- 131
+substring$ -- 959
+swap$ -- 314
+text.length$ -- 141
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 222
-warning$ -- 1
-while$ -- 147
-width$ -- 58
-write$ -- 756
-(There were 2 warnings)
+type$ -- 238
+warning$ -- 2
+while$ -- 156
+width$ -- 62
+write$ -- 808
+(There were 3 warnings)
