@@ -10,50 +10,52 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: happypillNotes.bib
 Database file #2: happypill.bib
 Warning--entry type for "Andersen_Tufik_Effects_Sildenafil_2018" isn't style-file defined
---line 2203 of file happypill.bib
+--line 2204 of file happypill.bib
 Database file #3: mjm_tr.bib
 Database file #4: releases.bib
-Warning--empty journal in agraham_Sildenafil_Exposure_2026
+Warning--empty journal in Anopa_Anopa_Anopa_textperiodcentered_Source_
+Warning--empty year in Anopa_Anopa_Anopa_textperiodcentered_Source_
+Warning--empty journal in Koe_Krill_test_failures_2022
 Warning--empty year in McCauley_Clark_Quest_Review_canine_dilated_
-You've used 60 entries,
+You've used 67 entries,
             2943 wiz_defined-function locations,
-            1171 strings with 40156 characters,
-and the built_in function-call counts, 36480 in all, are:
-= -- 3736
-> -- 2225
-< -- 19
-+ -- 853
-- -- 776
-* -- 2699
-:= -- 5506
-add.period$ -- 240
-call.type$ -- 60
-change.case$ -- 567
+            1224 strings with 43553 characters,
+and the built_in function-call counts, 40273 in all, are:
+= -- 4148
+> -- 2373
+< -- 23
++ -- 907
+- -- 822
+* -- 2931
+:= -- 6022
+add.period$ -- 267
+call.type$ -- 67
+change.case$ -- 611
 chr.to.int$ -- 0
-cite$ -- 62
-duplicate$ -- 833
-empty$ -- 2520
-format.name$ -- 776
-if$ -- 8807
+cite$ -- 71
+duplicate$ -- 955
+empty$ -- 2842
+format.name$ -- 822
+if$ -- 9797
 int.to.chr$ -- 0
-int.to.str$ -- 60
-missing$ -- 56
-newline$ -- 363
-num.names$ -- 120
-pop$ -- 808
+int.to.str$ -- 67
+missing$ -- 63
+newline$ -- 404
+num.names$ -- 134
+pop$ -- 897
 preamble$ -- 1
-purify$ -- 508
+purify$ -- 545
 quote$ -- 0
-skip$ -- 2205
+skip$ -- 2476
 stack$ -- 0
-substring$ -- 959
-swap$ -- 314
-text.length$ -- 141
+substring$ -- 1095
+swap$ -- 364
+text.length$ -- 155
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 238
-warning$ -- 2
-while$ -- 156
-width$ -- 62
-write$ -- 808
-(There were 3 warnings)
+type$ -- 266
+warning$ -- 4
+while$ -- 177
+width$ -- 69
+write$ -- 898
+(There were 5 warnings)
