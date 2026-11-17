@@ -17,45 +17,45 @@ Warning--empty journal in Anopa_Anopa_Anopa_textperiodcentered_Source_
 Warning--empty year in Anopa_Anopa_Anopa_textperiodcentered_Source_
 Warning--empty journal in Koe_Krill_test_failures_2022
 Warning--empty year in McCauley_Clark_Quest_Review_canine_dilated_
-You've used 67 entries,
+You've used 72 entries,
             2943 wiz_defined-function locations,
-            1224 strings with 43553 characters,
-and the built_in function-call counts, 40273 in all, are:
-= -- 4148
-> -- 2373
-< -- 23
-+ -- 907
-- -- 822
-* -- 2931
-:= -- 6022
-add.period$ -- 267
-call.type$ -- 67
-change.case$ -- 611
+            1268 strings with 46785 characters,
+and the built_in function-call counts, 43448 in all, are:
+= -- 4474
+> -- 2568
+< -- 24
++ -- 982
+- -- 890
+* -- 3177
+:= -- 6496
+add.period$ -- 287
+call.type$ -- 72
+change.case$ -- 660
 chr.to.int$ -- 0
-cite$ -- 71
-duplicate$ -- 955
-empty$ -- 2842
-format.name$ -- 822
-if$ -- 9797
+cite$ -- 76
+duplicate$ -- 1025
+empty$ -- 3057
+format.name$ -- 890
+if$ -- 10555
 int.to.chr$ -- 0
-int.to.str$ -- 67
-missing$ -- 63
-newline$ -- 404
-num.names$ -- 134
-pop$ -- 897
+int.to.str$ -- 72
+missing$ -- 68
+newline$ -- 434
+num.names$ -- 144
+pop$ -- 963
 preamble$ -- 1
-purify$ -- 545
+purify$ -- 589
 quote$ -- 0
-skip$ -- 2476
+skip$ -- 2662
 stack$ -- 0
-substring$ -- 1095
-swap$ -- 364
-text.length$ -- 155
+substring$ -- 1202
+swap$ -- 392
+text.length$ -- 168
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 266
+type$ -- 286
 warning$ -- 4
-while$ -- 177
-width$ -- 69
-write$ -- 898
+while$ -- 191
+width$ -- 74
+write$ -- 965
 (There were 5 warnings)
