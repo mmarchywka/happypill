@@ -5,21 +5,21 @@
 \tocdepth@restore 
 \contentsline {section}{\numberline {I}Introduction}{3}{section*.4}%
 \contentsline {section}{\numberline {II}Event Description }{5}{section*.5}%
-\contentsline {section}{\numberline {III}Discussion}{5}{section*.6}%
+\contentsline {section}{\numberline {III}Discussion}{6}{section*.6}%
 \contentsline {subsection}{\numberline {III.1}Right Ventricle Pulmonary Artery Death Spiral}{6}{section*.7}%
-\contentsline {subsection}{\numberline {III.2}Sildenafil }{6}{section*.8}%
-\contentsline {subsection}{\numberline {III.3} Notable Diet Components }{7}{section*.9}%
-\contentsline {subsection}{\numberline {III.4} Essential and other Oil Components }{8}{section*.10}%
-\contentsline {subsection}{\numberline {III.5} Drug Considerations }{9}{section*.11}%
-\contentsline {section}{\numberline {IV}Conclusions}{9}{section*.12}%
-\contentsline {section}{\numberline {V}Supplemental Information}{9}{section*.13}%
-\contentsline {subsection}{\numberline {V.1}Computer Code}{9}{section*.14}%
+\contentsline {subsection}{\numberline {III.2}Sildenafil }{7}{section*.8}%
+\contentsline {subsection}{\numberline {III.3} Notable Diet Components }{8}{section*.9}%
+\contentsline {subsection}{\numberline {III.4} Essential and other Oil Components }{9}{section*.10}%
+\contentsline {subsection}{\numberline {III.5} All Tolled Drug and Diet Considerations }{10}{section*.11}%
+\contentsline {section}{\numberline {IV}Conclusions}{10}{section*.12}%
+\contentsline {section}{\numberline {V}Supplemental Information}{10}{section*.13}%
+\contentsline {subsection}{\numberline {V.1}Computer Code}{10}{section*.14}%
 \contentsline {section}{\numberline {VI}Bibliography}{10}{section*.15}%
 \contentsline {section}{\numberline {}References}{10}{section*.16}%
-\contentsline {section}{\numberline {}Acknowledgments}{14}{section*.17}%
+\contentsline {section}{\numberline {}Acknowledgments}{15}{section*.17}%
 \appendix 
-\contentsline {section}{\numberline {A} Statement of Conflicts }{15}{section*.18}%
-\contentsline {section}{\numberline {B}About the Authors and Facility}{15}{section*.19}%
-\contentsline {section}{\numberline {C}Symbols, Abbreviations and Colloquialisms}{15}{section*.20}%
-\contentsline {section}{\numberline {D}General caveats and disclaimer }{15}{section*.21}%
-\contentsline {section}{\numberline {E}Citing this as a tech report or white paper }{15}{section*.22}%
+\contentsline {section}{\numberline {A} Statement of Conflicts }{16}{section*.18}%
+\contentsline {section}{\numberline {B}About the Authors and Facility}{16}{section*.19}%
+\contentsline {section}{\numberline {C}Symbols, Abbreviations and Colloquialisms}{16}{section*.20}%
+\contentsline {section}{\numberline {D}General caveats and disclaimer }{16}{section*.21}%
+\contentsline {section}{\numberline {E}Citing this as a tech report or white paper }{16}{section*.22}%
