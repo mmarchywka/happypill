@@ -644,7 +644,7 @@ to minimize peak pressure while delivering adequate flow to avoid
 more loss of cross section. 
 
 
-\subsection{Sildenafil }
+\subsection{Sildenafil and Pimobendan}
 
 Administration of sildenafil to hypoxic rats was able to reduce
 and reverse some pulmonary muscularization
@@ -791,6 +791,7 @@ waveform.
 \caption{ 
  Sildenafil, By Mrgreen71 - Own work, CC BY-SA 3.0, {\url{https://commons.wikimedia.org/w/index.php?curid=4994287}}
 Believed to be accurate but not verified.
+See also {\url{https://www.accessdata.fda.gov/drugsatfda_docs/label/2014/20895s039s042lbl.pdf}} or the "drugsatfda" page. 
  }
 \end{figure}
 
@@ -801,6 +802,7 @@ Believed to be accurate but not verified.
 \caption{ 
 Pimobendan, By Fvasconcellos - Own work, Public Domain, {\url{https://commons.wikimedia.org/w/index.php?curid=4511641}} 
 Believed to be accurate but not verified.
+See also {\url{https://docs.boehringer-ingelheim.com/PI/Theras/Vetmedin-CA1_Prescribing_Information.pdf}}
 }
 \end{figure}
 
@@ -880,8 +882,9 @@ double the arginine amounts but with no remarkable changes.
 
 Canola oil prior to the event was switched to soybean oil
 afterward and that may have contributed to some
-longer term effects. Essential and deleterious oil intake
-may be another factor to look at in more detail. 
+longer term effects. 
+This change was made for all dogs at the same time and many
+seemed to perk up a bit with more barking and movement.
 The first soybean oil was given on 2026-06-04 while the krilloil
 had been started on 2026-02-20 and canola on 2026-02-27.
 Noted improvements seemed to occur weeks after the soybean oil
@@ -1010,19 +1013,35 @@ do well with added copper in the right dietary context.
 
 
 \section{Conclusions}
+It may be unsettling to look at all these pieces and not
+have an off the shelf pill that works through some known mechanism.
+The objective of this work however is ultimately to optimize Happy's health.
+It is not to showcase a particular drug or prove a particular
+medical theory. As such, the treatment can react to signals 
+and data as they become available and approaches combined
+in ways that seem plausible. In this way, parameter space
+is sampled in places that are the most likely to be
+useful and contrary results should also be the most thought provoking.
+In the end, there is no real need to prove a "one bug one drug" solution
+although contributors could be sorted out in later cases. 
+Here, it looks like there were several factors involving
+explicit drugs and other chemicals like nutrients that 
+combined may have helped. 
 For a dog with a history of heartworm and incompletely diagnosed
-heart problems, Sildenafil may be a better guess
-than pimobendan, furosemide, and an ACE inhbitor combination.
-And in any case, nutrients may be underappreciated. In the case
+heart problems, Sildenafil may be a better guess at a drug 
+than pimobendan, furosemide, and an ACE inhbitor combination for chronic
+usage.
+Ntrients may be underappreciated. In the case
 of Happy, copper and soybean oil appear important against a larger
 background of supplements. 
- Its quite common in medicine to see one
-thing produce some improvements 
-but an opposite approach may also produce a different
-set of benefits. 
 Pimobendan appears to be trendy but may not be a good match
 to the reality of many dogs' conditions. 
-"Talk to your vet about Viagra."
+In some ways, these drugs have opposing effects on inotropy
+yet both are thought to be useful. Its not uncommon to
+have "two opposing approaches" in medicine either because the
+mechanism is not well understood or the system is optimized
+in some sense and hence at a response surface saddle point. 
+In any case, "Talk to your vet about Viagra."
 
  
 
@@ -1042,6 +1061,25 @@ is maintained at
 
 
 \begin{lstlisting}
+
+soybean oil graph,
+
+./run_linc_graph -src Happy_soybeanoil -2dscope soybeanoil Happy "filter=lag3" 
+
+
+weights graph, 
+
+ 2213  mudaily.txt -glob | grep weight | grep Claire | awk '{ print $1" "$2" "$7}' > weightClaire.txt
+
+$ cat weights.R
+dfh <-read.table("weightDaisy.txt",header=F)
+df <-read.table("weightClaire.txt",header=F)
+plot(df$V1,df$V3,type="b",xlab="day number",ylab="weight(lbs)", main="Daisy(/7) and Claire Weight",lwd=5,col="red",ylim=c(9,18),xlim=c(17400,20800) )
+lines(dfh$V1,dfh$V3/7,col="blue",lwd=5)
+grid(col="black")
+text(19067,10,"2022-03-16",srt=90)
+text(20703, 10, "2026-09-07",srt=90)
+
 
 
 \end{lstlisting}
