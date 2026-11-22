@@ -343,6 +343,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy9.tfm
 INPUT ./keep/happy_soy.jpg
 INPUT ./keep/happy_soy.jpg
+INPUT /home/marchywka/.texlive2025/texmf-var/luatex-cache/generic/fonts/otl/lmmono8-regular.luc
 INPUT ./keep/Sildenafil_structure.pdf
 INPUT ./keep/Sildenafil_structure.pdf
 INPUT /home/marchywka/.texlive2025/texmf-var/luatex-cache/generic/fonts/otl/lmmono9-regular.luc
