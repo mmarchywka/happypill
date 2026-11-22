@@ -6,14 +6,14 @@
 \contentsline {section}{\numberline {I}Introduction}{3}{section*.4}%
 \contentsline {section}{\numberline {II}Event Description }{5}{section*.5}%
 \contentsline {section}{\numberline {III}Discussion}{6}{section*.6}%
-\contentsline {subsection}{\numberline {III.1}Right Ventricle Pulmonary Artery Death Spiral}{6}{section*.7}%
+\contentsline {subsection}{\numberline {III.1}Right Side Involved Death Spirals }{6}{section*.7}%
 \contentsline {subsection}{\numberline {III.2}Sildenafil and Pimobendan}{7}{section*.8}%
 \contentsline {subsection}{\numberline {III.3} Notable Diet Components }{8}{section*.9}%
-\contentsline {subsection}{\numberline {III.4} Essential and other Oil Components }{9}{section*.10}%
+\contentsline {subsection}{\numberline {III.4} Essential and other Fatty Acid Components }{9}{section*.10}%
 \contentsline {subsection}{\numberline {III.5} All Tolled Drug and Diet Considerations }{10}{section*.11}%
-\contentsline {section}{\numberline {IV}Conclusions}{10}{section*.12}%
+\contentsline {section}{\numberline {IV}Conclusions : Dammed if you do, Dammed if you don't }{10}{section*.12}%
 \contentsline {section}{\numberline {V}Supplemental Information}{10}{section*.13}%
-\contentsline {subsection}{\numberline {V.1}Computer Code}{10}{section*.14}%
+\contentsline {subsection}{\numberline {V.1}Computer Code}{11}{section*.14}%
 \contentsline {section}{\numberline {VI}Bibliography}{11}{section*.15}%
 \contentsline {section}{\numberline {}References}{11}{section*.16}%
 \contentsline {section}{\numberline {}Acknowledgments}{15}{section*.17}%
