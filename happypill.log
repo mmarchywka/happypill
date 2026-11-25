@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  22 NOV 2026 14:18
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  25 NOV 2026 08:34
  restricted system commands enabled.
  file:line:error style messages enabled.
 **happypill.tex
@@ -1267,139 +1267,139 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 \openout7 = happypill.toc
  [2]
-<keep/happy2020_12_16.jpg, id=157, 1204.5pt x 1606.0pt>
+<keep/happy2020_12_16.jpg, id=158, 1204.5pt x 1606.0pt>
 File: keep/happy2020_12_16.jpg Graphic file (type jpg)
 <use keep/happy2020_12_16.jpg>
-Package luatex.def Info: keep/happy2020_12_16.jpg  used on input line 460.
+Package luatex.def Info: keep/happy2020_12_16.jpg  used on input line 464.
 (luatex.def)             Requested size: 289.0859pt x 216.80064pt.
-<keep/happy2026_11_9.jpg, id=158, 8190.6pt x 6167.04pt>
+<keep/happy2026_11_9.jpg, id=159, 8190.6pt x 6167.04pt>
 File: keep/happy2026_11_9.jpg Graphic file (type jpg)
 <use keep/happy2026_11_9.jpg>
-Package luatex.def Info: keep/happy2026_11_9.jpg  used on input line 461.
+Package luatex.def Info: keep/happy2026_11_9.jpg  used on input line 465.
 (luatex.def)             Requested size: 289.07487pt x 216.80946pt.
  [3<./keep/happy2020_12_16.jpg>]
-<keep/happyclaireweght.pdf, id=185, 505.89pt x 505.89pt>
+<keep/happyclaireweght.pdf, id=187, 505.89pt x 505.89pt>
 File: keep/happyclaireweght.pdf Graphic file (type pdf)
 <use keep/happyclaireweght.pdf>
-Package luatex.def Info: keep/happyclaireweght.pdf  used on input line 464.
+Package luatex.def Info: keep/happyclaireweght.pdf  used on input line 468.
 (luatex.def)             Requested size: 289.08589pt x 216.81056pt.
  [4<./keep/happy2026_11_9.jpg><./keep/happyclaireweght.pdf>]
-<keep/happy_soy.jpg, id=200, 937.5025pt x 602.25pt>
+<keep/happy_soy.jpg, id=202, 937.5025pt x 602.25pt>
 File: keep/happy_soy.jpg Graphic file (type jpg)
 <use keep/happy_soy.jpg>
-Package luatex.def Info: keep/happy_soy.jpg  used on input line 563.
+Package luatex.def Info: keep/happy_soy.jpg  used on input line 567.
 (luatex.def)             Requested size: 289.07782pt x 216.80983pt.
 
 [5]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 569--570
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 573--574
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--570
+Underfull \hbox (badness 10000) in paragraph at lines 573--574
 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 612--613
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 616--617
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 612--613
+Underfull \hbox (badness 10000) in paragraph at lines 616--617
 
  []
 
 [6<./keep/happy_soy.jpg>]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 649--650
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 653--654
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--650
+Underfull \hbox (badness 10000) in paragraph at lines 653--654
 
  []
 
 [7]
-<keep/Sildenafil_structure.pdf, id=292, 487.30553pt x 272.05879pt>
+<keep/Sildenafil_structure.pdf, id=294, 487.30553pt x 272.05879pt>
 File: keep/Sildenafil_structure.pdf Graphic file (type pdf)
 <use keep/Sildenafil_structure.pdf>
-Package luatex.def Info: keep/Sildenafil_structure.pdf  used on input line 812.
+Package luatex.def Info: keep/Sildenafil_structure.pdf  used on input line 816.
 
 (luatex.def)             Requested size: 216.81pt x 121.04294pt.
-<keep/Pimobendan.pdf, id=297, 498.21114pt x 190.16043pt>
+<keep/Pimobendan.pdf, id=299, 498.21114pt x 190.16043pt>
 File: keep/Pimobendan.pdf Graphic file (type pdf)
 <use keep/Pimobendan.pdf>
-Package luatex.def Info: keep/Pimobendan.pdf  used on input line 823.
+Package luatex.def Info: keep/Pimobendan.pdf  used on input line 827.
 (luatex.def)             Requested size: 216.81pt x 82.75392pt.
  [8<./keep/Sildenafil_structure.pdf><./keep/Pimobendan.pdf>] [9]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 982--983
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 986--987
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 982--983
+Underfull \hbox (badness 10000) in paragraph at lines 986--987
 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1007--1008
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1011--1012
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1007--1008
+Underfull \hbox (badness 10000) in paragraph at lines 1011--1012
 
  []
 
 [10] (./happypill.bbl
-Underfull \hbox (badness 7759) in paragraph at lines 30--34
+Underfull \hbox (badness 7759) in paragraph at lines 40--44
 []\TU/lmr/m/n/9 Anopa and Anopa.  Anopa ·source it. prove it. value it.  URL: 
 [][]$\TU/lmtt/m/n/9 https://anopa-[]trust.com/blog/
  []
 
 [11] [12]
-Underfull \hbox (badness 6380) in paragraph at lines 269--276
+Underfull \hbox (badness 6380) in paragraph at lines 279--286
 []\TU/lmr/m/n/9 Cem Yaln Klnç, Se-la-hat-tin Öz-can, Ethem Acar, UUx011f[bad 
 vv=287]ur Tiftikçi, Serkan Aykut, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--284
+Underfull \hbox (badness 10000) in paragraph at lines 288--294
 []\TU/lmr/m/n/9 Tingmin Koe.  Krill oil test fail-ures: Us-made prod-ucts un-der
  fire in south ko-rea for al-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--284
+Underfull \hbox (badness 10000) in paragraph at lines 288--294
 \TU/lmr/m/n/9 leged adul-ter-ation.  01 2022.  URL: [][]$\TU/lmtt/m/n/9 https://
 www.nutraingredients.com/Article/2022/01/19/
  []
 
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 586--591
+Underfull \hbox (badness 10000) in paragraph at lines 596--601
 \TU/lmtt/m/n/9 com/books/edition/Fundamentals_of_Veterinary_Pathophysiolo/wRtbEQ
 AAQBAJ?hl=en&gbpv=1&dq=heartworm+mmvd+
  []
 
-[14]) [15] Including 'mdpicomment' comment.
-\openout4 = comment.cut
- Straight input of comment.cut.
-(./comment.cut) Including 'mdpicomment' comment.
+[14]) [15] [16] Including 'mdpicomment' comment.
 \openout4 = comment.cut
 
-Straight input of comment.cut. (./comment.cut Excluding 'comment' comment.
-Excluding 'comment' comment.
+Straight input of comment.cut. (./comment.cut)
+Including 'mdpicomment' comment.
+\openout4 = comment.cut
+ Straight input of comment.cut. (./comment.cut
+Excluding 'comment' comment. Excluding 'comment' comment.
 (/home/documents/latex/share/includes/disclaimer-gaslight.tex)
 (/home/documents/latex/share/includes/disclaimer-status.tex) (./releases.tex)
 Overfull \hbox (10.0pt too wide) in paragraph at lines 89--94
 []$[]$ 
  []
 
-Excluding 'comment' comment. [16]
+Excluding 'comment' comment. [17]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 108.
- (./happypill.bundle_checksums [17])) [18]
+ (./happypill.bundle_checksums [18])) [19]
 (./happypill.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
@@ -1410,14 +1410,14 @@ Package rerunfilecheck Info: File `happypill.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35339 strings out of 475512
+ 35344 strings out of 475512
  596191,1373583 words of node,token memory allocated
  1173 words of node memory still in use:
    11 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 60 attribute, 80 glue_spe
 c, 60 attribute_list, 45 pdf_action nodes
-   avail lists: 1:1,2:5186,3:1351,4:314,5:15909,6:179,7:24388,8:185,9:32146,10:4
+   avail lists: 1:2,2:5186,3:1320,4:308,5:15909,6:179,7:24454,8:185,9:32146,10:4
 6,11:1892
- 57206 multiletter control sequences out of 65536+600000
+ 57209 multiletter control sequences out of 65536+600000
  82 fonts using 5770015 bytes
  124i,12n,116p,678b,1406s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texm
@@ -1432,10 +1432,10 @@ are/texmf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf/fonts/op
 entype/public/lm/lmroman10-regular.otf></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmsy7.pfb>
-Output written on happypill.pdf (18 pages, 12035057 bytes).
+Output written on happypill.pdf (19 pages, 12036324 bytes).
 
-PDF statistics: 750 PDF objects out of 1000 (max. 8388607)
- 673 compressed objects within 7 object streams
- 195 named destinations out of 1000 (max. 131072)
+PDF statistics: 755 PDF objects out of 1000 (max. 8388607)
+ 677 compressed objects within 7 object streams
+ 197 named destinations out of 1000 (max. 131072)
  192 words of extra memory for PDF output out of 10000 (max. 100000000)
 
